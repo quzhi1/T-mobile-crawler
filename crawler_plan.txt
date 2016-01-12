@@ -1,0 +1,11 @@
+用session做，session.get
+
+get account.t-mobile.com  -> to get cookie (cookie在session里面)
+
+如何找post：Network->controller
+
+post的时候，只需要加user-agent
+
+package needed:
+requests
+pyjuery
